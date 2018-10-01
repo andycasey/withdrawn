@@ -1,0 +1,3 @@
+[submodule "get-rich-or-die-trying"]
+	path = get-rich-or-die-trying
+	url = https://github.com/andycasey/get-rich-or-die-trying
